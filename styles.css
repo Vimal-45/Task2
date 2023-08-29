@@ -1,8 +1,6 @@
-/* .container-fluid{
-width: 4000px!important;
-width: auto;
-border: 10px solid red;
-} */
+.container-fluid{
+width: 80% !important;
+}
 
 
 nav{
